@@ -1,4 +1,4 @@
-![MAR Technologies — Software e IA para pymes argentinas](portada.png)
+![MAR Technologies — Software e IA para pymes argentinas](MAR-LinkedIn-portada.png)
 
 ## Hola, soy Joel 👋
 
